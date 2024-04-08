@@ -1,0 +1,29 @@
+body { font-family: ""; }
+
+
+h1, h2 {
+  font-family: "Akshar", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+h1 {
+	font-size: 80px;
+}
+
+h2 {
+	font-size: 50px;
+}
+
+.bg-danger { background-color: #F7ADD4 !important; }
+
+.bi-instagram {color: #806969;
+	font-size: 50px }
+
+.bi-linkedin {color: #806969;
+	font-size: 50px}
+
+.bi-facebook {color: #806969;
+	font-size: 50px}
+
+
+.bg-light { background-color: #6B5A5A !important; }
